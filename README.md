@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomzyhub(emmanuel)
+- 👋 Hi, I’m @tomzyhub(emmanuel vincent)
 - 👀 I’m interested in web and mobile developement
 - 🌱 I’m currently learning React, Rest Api and Nodejs
 - 💞️ I’m looking to collaborate on open source and other beautiful projects
